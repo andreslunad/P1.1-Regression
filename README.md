@@ -1,6 +1,6 @@
 # P1.1-Regression
 
-En este proyecto se pretende analizar la relación entre la glucosa en sangre (Glucose) y otras variables clínicas y bioquímicas en un contexto de riesgo de cancer de mama obtenidos de este [enlace](https://www.semanticscholar.org/paper/Using-Resistin%2C-glucose%2C-age-and-BMI-to-predict-the-Patr%C3%ADcio-Pereira/0861bd9c3acf6504ce142517c4e05bf8f564f32a). Para lograr esto, se tomó información en el [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/451/breast+cancer+coimbra) en donde se encuentra información para 116 personas, con 10 variables predictoras en total. Esta base de datos se encuentra en el documento con el nombre "DATAr2.csv".
+En este proyecto se pretende analizar la relación entre la glucosa en sangre (Glucose) y otras variables clínicas y bioquímicas en un contexto de riesgo de cancer de mama obtenidos de este [enlace](https://www.semanticscholar.org/paper/Using-Resistin%2C-glucose%2C-age-and-BMI-to-predict-the-Patr%C3%ADcio-Pereira/0861bd9c3acf6504ce142517c4e05bf8f564f32a). Para lograr esto, se tomó información en el [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/451/breast+cancer+coimbra) en donde se encuentra información para 116 personas, con 10 variables predictoras en total. Esta base de datos se encuentra en el documento con el nombre "dataR2.csv".
 
 La base de datos cuenta con la siguiente información:
 
@@ -31,3 +31,5 @@ Este proyecto incluye los siguientes documentos:
 • [Reporte en formato html](P1.1608994.html)
 
 • [Base de de datos](dataR2.csv)
+
+• [Diccionario](Diccionario.pdf)
