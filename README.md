@@ -1,6 +1,6 @@
 # P1.1-Regression
 
-En este proyecto se pretende realizar una predicción de riesgo de contar con cancer de mama. Para lograr esto, se tomó información en el [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/451/breast+cancer+coimbra) en donde se encuentra información para 116 personas, con 10 variables predictoras en total. Esta base de datos se encuentra en el documento con el nombre "DATAr2.csv".
+En este proyecto se pretende analizar la relación entre la glucosa en sangre (Glucose) y otras variables clínicas y bioquímicas en un contexto de riesgo de cancer de mama. Para lograr esto, se tomó información en el [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/451/breast+cancer+coimbra) en donde se encuentra información para 116 personas, con 10 variables predictoras en total. Esta base de datos se encuentra en el documento con el nombre "DATAr2.csv".
 
 La base de datos cuenta con la siguiente información:
 
